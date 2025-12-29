@@ -19,7 +19,7 @@ Construyo sistemas en la intersección de **Datos, IA y Automatización**.
 
 - 📗 [Prompt Engineering Playbook](https://github.com/pumadsdlacuna/prompt-engineering-playbook)
 - 📙 [n8n Automation Recipes](https://github.com/pumadsdlacuna/n8n-automation-recipes)
-- 🧠 [GitHub Personal OS](https://github.com/<tu-usuario>/github-personal-os)
+- 🧠 [Building a technical second brain on github](https://github.com/pumadsdlacuna/building-a-technical-second-brain-on-github)
 
 ---
 
