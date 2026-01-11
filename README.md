@@ -4,6 +4,11 @@ I build systems at the intersection of **Data, AI, and Automation**.
 
 Construyo sistemas en la intersección de **Datos, IA y Automatización**.
 
+I design and build **structured knowledge systems, AI-enabled workflows, and pragmatic products**  
+for decision-making, analytics, and professional use.
+
+This GitHub is organized as a **layered system**, not a collection of experiments.
+
 ---
 
 ## 🔍 Focus Areas
